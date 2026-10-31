@@ -1,1 +1,0 @@
-execute if entity @s[nbt={HurtTime:10s}] run playsound minecraft:entity.spider.hurt master @a ~ ~ ~ 1 1

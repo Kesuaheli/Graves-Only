@@ -1,1 +1,0 @@
-$data modify storage factions:$(path) data.name set from storage factions:main players."$(0) $(1) $(2) $(3)"

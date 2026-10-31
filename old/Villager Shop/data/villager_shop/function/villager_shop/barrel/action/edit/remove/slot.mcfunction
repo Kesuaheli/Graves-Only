@@ -1,1 +1,0 @@
-$data remove entity @n[tag=villager_shop.villager] Offers.Recipes[$(slot)]

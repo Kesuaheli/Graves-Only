@@ -1,1 +1,0 @@
-$tellraw $(selector) {"color":"gray","text":"[Chunky Offline] $(text)"}

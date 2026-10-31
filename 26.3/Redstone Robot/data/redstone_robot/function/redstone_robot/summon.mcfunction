@@ -1,1 +1,0 @@
-function redstone_robot:redstone_robot/armor_stand/summon

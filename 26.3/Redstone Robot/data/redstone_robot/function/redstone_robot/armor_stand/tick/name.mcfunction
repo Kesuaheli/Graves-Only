@@ -1,2 +1,0 @@
-execute store result storage redstone_robot:main power int 1 run scoreboard players get @s redstone_robot.robot.power
-function redstone_robot:redstone_robot/armor_stand/macro/name with storage redstone_robot:main

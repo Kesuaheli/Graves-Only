@@ -1,1 +1,0 @@
-$execute anchored eyes positioned ^ ^ ^.125 run function villager_quests:player/use/quest/raycast {"hand":"$(hand)"}

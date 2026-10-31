@@ -1,1 +1,0 @@
-effect give @s minecraft:invisibility 8 0 true

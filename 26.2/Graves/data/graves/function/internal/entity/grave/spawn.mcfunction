@@ -1,1 +1,0 @@
-$function graves:internal/entity/grave/entity/interaction/summon {"player_id":$(player_id),"grave_id":$(grave_id),"x":$(x),"y":$(y),"z":$(z)}

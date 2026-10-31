@@ -1,1 +1,0 @@
-$execute at @s as @e[type=item,nbt={Age:0s},distance=..$(range)] run function magnetic_enchantment:magnetic/found

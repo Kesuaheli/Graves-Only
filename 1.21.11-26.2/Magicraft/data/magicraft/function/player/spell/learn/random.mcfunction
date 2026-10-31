@@ -1,1 +1,0 @@
-$execute store result storage magicraft:learn data.id int 1 run random value 1..$(spells_total_count)

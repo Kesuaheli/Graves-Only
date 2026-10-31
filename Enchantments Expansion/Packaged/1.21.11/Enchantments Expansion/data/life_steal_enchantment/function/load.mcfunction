@@ -1,1 +1,0 @@
-scoreboard objectives add life_steal_enchantment.player.damage_dealt minecraft.custom:minecraft.damage_dealt

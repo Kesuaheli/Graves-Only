@@ -1,1 +1,0 @@
-execute anchored eyes run function herobrine:mannequin/herobrine/attack/raycast

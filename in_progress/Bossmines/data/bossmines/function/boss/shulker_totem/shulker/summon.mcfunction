@@ -1,1 +1,0 @@
-$execute summon minecraft:shulker run function bossmines:boss/shulker_totem/shulker/data {"id":$(id),"index":$(index)}

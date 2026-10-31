@@ -1,1 +1,0 @@
-$execute at @n[tag=utils.team_player] positioned ~$(x) ~1 ~$(z) run tp @s ~ ~ ~

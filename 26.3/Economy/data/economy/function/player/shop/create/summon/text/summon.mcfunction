@@ -1,1 +1,0 @@
-$execute summon minecraft:text_display run function economy:player/shop/create/summon/text/data {"player_id":$(player_id),"id":$(id),"price":$(price),"count":"$(count)"}

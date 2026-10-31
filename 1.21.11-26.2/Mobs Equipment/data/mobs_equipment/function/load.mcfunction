@@ -1,1 +1,0 @@
-scoreboard objectives add mobs_equipment.entity.random dummy

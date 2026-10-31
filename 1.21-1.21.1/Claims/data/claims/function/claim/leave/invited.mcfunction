@@ -1,1 +1,0 @@
-tellraw @s {"text":"Leaved invited claim.","color":"gray"}

@@ -1,3 +1,0 @@
-function hammer_enchantment:player/rotation
-
-function hammer_enchantment:hammer/raycast/start

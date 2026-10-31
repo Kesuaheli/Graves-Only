@@ -1,1 +1,0 @@
-$execute summon minecraft:slime run function bossmines:boss/slime_swarm/slime/data {"id":$(id)}

@@ -1,1 +1,0 @@
-schedule function wandering_trader_maps:schedule 10t replace

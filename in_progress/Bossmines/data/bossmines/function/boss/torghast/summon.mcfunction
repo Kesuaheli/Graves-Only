@@ -1,1 +1,0 @@
-execute summon minecraft:ghast run function bossmines:boss/torghast/data

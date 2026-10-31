@@ -1,1 +1,0 @@
-execute as @e[type=item,tag=!eternal_enchantment.item,predicate=eternal_enchantment:eternal] at @s run function eternal_enchantment:eternal

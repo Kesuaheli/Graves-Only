@@ -1,1 +1,0 @@
-$function magicraft:player/grimoire/left_click/spell with storage magicraft:spells data.spells[{"id":$(id)}]

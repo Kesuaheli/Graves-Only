@@ -1,1 +1,0 @@
-execute summon minecraft:piglin_brute run function backrooms:entity/shadow_monster/data

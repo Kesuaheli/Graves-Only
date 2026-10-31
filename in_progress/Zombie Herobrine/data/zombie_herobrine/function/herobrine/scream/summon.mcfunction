@@ -1,1 +1,0 @@
-execute summon minecraft:zombie run function zombie_herobrine:herobrine/scream/data

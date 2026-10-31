@@ -1,1 +1,0 @@
-execute summon minecraft:mannequin run function herobrine:mannequin/herobrine/data

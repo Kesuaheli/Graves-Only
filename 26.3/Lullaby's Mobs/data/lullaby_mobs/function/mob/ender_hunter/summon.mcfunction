@@ -1,1 +1,0 @@
-execute summon minecraft:skeleton run function lullaby_mobs:mob/ender_hunter/data

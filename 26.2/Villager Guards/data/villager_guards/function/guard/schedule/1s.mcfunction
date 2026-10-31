@@ -1,1 +1,0 @@
-execute unless entity @s[tag=villager_guards.guard.ready] if entity @e[type=minecraft:villager,distance=..100] run function villager_guards:guard/home

@@ -1,1 +1,0 @@
-$execute summon minecraft:elder_guardian run function fishing_expansion:mob/boss/elder_drowned/elder_guardian/data {"id":$(id),"pos":$(pos)}

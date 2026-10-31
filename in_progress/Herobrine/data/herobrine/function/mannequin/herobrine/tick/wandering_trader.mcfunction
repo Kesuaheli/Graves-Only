@@ -1,1 +1,0 @@
-$execute unless entity @s[tag=herobrine.mannequin.hurted] at @n[tag=herobrine.mannequin.wandering_trader,scores={herobrine.mannequin.id=$(id)}] positioned ^ ^ ^0.001 run tp @s ~ ~ ~ facing entity @n[tag=herobrine.mannequin.marker,scores={herobrine.mannequin.id=$(id)}]

@@ -1,1 +1,0 @@
-function factions:player/trigger/check

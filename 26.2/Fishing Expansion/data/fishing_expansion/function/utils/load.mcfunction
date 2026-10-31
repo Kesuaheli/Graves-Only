@@ -1,1 +1,0 @@
-function fishing_expansion:utils/entity/bossbar/load

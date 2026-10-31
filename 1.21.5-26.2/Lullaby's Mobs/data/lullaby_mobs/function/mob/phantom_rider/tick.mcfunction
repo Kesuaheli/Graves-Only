@@ -1,1 +1,0 @@
-execute if entity @s[nbt={HurtTime:10s}] run playsound minecraft:entity.phantom.hurt master @a ~ ~ ~ 1 2

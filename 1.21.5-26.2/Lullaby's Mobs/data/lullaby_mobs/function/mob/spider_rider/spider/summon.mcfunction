@@ -1,1 +1,0 @@
-execute summon minecraft:cave_spider run function lullaby_mobs:mob/spider_rider/spider/data

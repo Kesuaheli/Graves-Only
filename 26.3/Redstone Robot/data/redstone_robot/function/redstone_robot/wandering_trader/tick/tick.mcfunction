@@ -1,1 +1,0 @@
-$execute unless entity @e[tag=redstone_robot.robot.armor_stand,scores={redstone_robot.robot.id=$(id)}] run return run function redstone_robot:utils/entity/despawn

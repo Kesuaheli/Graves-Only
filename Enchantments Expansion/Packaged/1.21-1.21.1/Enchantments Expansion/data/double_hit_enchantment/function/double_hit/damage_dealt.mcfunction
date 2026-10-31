@@ -1,1 +1,0 @@
-$damage @s $(damage) minecraft:player_attack by @p[predicate=double_hit_enchantment:double_hit]

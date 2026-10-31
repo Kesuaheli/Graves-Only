@@ -1,1 +1,0 @@
-execute as @e[tag=true_shot_enchantment.arrow] at @s run function true_shot_enchantment:arrow/tick

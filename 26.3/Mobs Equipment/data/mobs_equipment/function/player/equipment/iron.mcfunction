@@ -1,1 +1,0 @@
-tag @s add mobs_equipment.player.equipment.iron

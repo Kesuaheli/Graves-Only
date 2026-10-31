@@ -1,1 +1,0 @@
-tellraw @s [{"color":"gray","text":"Leaved a claim."}]

@@ -1,1 +1,0 @@
-execute anchored eyes positioned ^ ^ ^ run function villager_shop:player/barrel/use/raycast/raycast

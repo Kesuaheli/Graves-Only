@@ -1,1 +1,0 @@
-$data modify storage villager_quests:main quest.plural set value "$(singular)s"

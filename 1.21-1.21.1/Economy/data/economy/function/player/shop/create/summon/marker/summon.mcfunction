@@ -1,1 +1,0 @@
-$execute summon minecraft:marker run function economy:player/shop/create/summon/marker/data {"player_id":$(player_id),"id":$(id),"price":$(price)}

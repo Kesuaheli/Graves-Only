@@ -1,1 +1,0 @@
-execute unless predicate backrooms:in_backrooms run function backrooms:entity/player/backrooms/leave

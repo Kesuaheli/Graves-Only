@@ -1,1 +1,0 @@
-execute summon minecraft:skeleton run function lullaby_mobs:mob/phantom_rider/data

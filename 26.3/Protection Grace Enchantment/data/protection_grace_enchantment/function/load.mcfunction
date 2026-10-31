@@ -1,1 +1,0 @@
-scoreboard objectives add protection_grace_enchantment.player.cooldown dummy

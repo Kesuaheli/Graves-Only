@@ -1,1 +1,0 @@
-function my_zombie_pet:utils/player/load

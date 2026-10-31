@@ -1,2 +1,0 @@
-execute on origin if predicate automatic_enchantment:arrow run return run function automatic_enchantment:arrow
-execute on origin if predicate automatic_enchantment:spectral_arrow run return run function automatic_enchantment:spectral_arrow

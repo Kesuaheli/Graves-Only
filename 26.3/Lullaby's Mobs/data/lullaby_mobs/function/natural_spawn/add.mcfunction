@@ -1,1 +1,0 @@
-$function lullaby_mobs:mob/$(mob)/summon

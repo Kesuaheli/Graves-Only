@@ -1,1 +1,0 @@
-$function magicraft:player/spell/learn/spell with storage magicraft:spells data.spells[{"id":$(id)}]

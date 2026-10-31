@@ -1,2 +1,0 @@
-execute align xyz run summon block_display ~ ~ ~ {Tags:["portals.block_display.portal.nether_portal"],block_state:{id:"minecraft:nether_portal",properties:{axis:"x"}}}
-execute align xyz run summon block_display ~ ~1 ~ {Tags:["portals.block_display.portal.nether_portal"],block_state:{id:"minecraft:nether_portal",properties:{axis:"x"}}}

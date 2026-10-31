@@ -1,1 +1,0 @@
-$execute positioned $(x) $(y) $(z) run function magnetic_enchantment:item/teleport

@@ -1,1 +1,0 @@
-$execute summon wandering_trader run function redstone_robot:redstone_robot/wandering_trader/data {"id":$(id)}

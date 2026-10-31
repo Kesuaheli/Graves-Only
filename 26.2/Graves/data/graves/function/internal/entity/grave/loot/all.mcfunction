@@ -1,1 +1,0 @@
-execute as @e[tag=graves.grave] at @s run function graves:internal/entity/grave/loot/force

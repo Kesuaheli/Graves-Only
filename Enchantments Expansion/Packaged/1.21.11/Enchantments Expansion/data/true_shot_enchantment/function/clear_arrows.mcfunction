@@ -1,1 +1,0 @@
-kill @e[tag=true_shot_enchantment.arrow]

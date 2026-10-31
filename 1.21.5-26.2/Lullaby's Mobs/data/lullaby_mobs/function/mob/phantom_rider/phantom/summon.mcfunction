@@ -1,1 +1,0 @@
-execute summon minecraft:phantom run function lullaby_mobs:mob/phantom_rider/phantom/data

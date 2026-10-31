@@ -1,1 +1,0 @@
-execute as @n[tag=villager_shop.marker,distance=..1] run function villager_shop:villager_shop/barrel/page/menu/data
